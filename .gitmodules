@@ -1,0 +1,3 @@
+[submodule "web/app/plugins/rt-sildeshow"]
+	path = web/app/plugins/rt-sildeshow
+	url = git@github.com:kirtangajjar/rtcamp-plugin-assignment-1.git
